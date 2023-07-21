@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "oracleprop",
+      "type": "com.example.first.ExampleProperties",
+      "sourceType": "com.example.first.ExampleProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oracleprop.greetings",
+      "type": "java.lang.String",
+      "sourceType": "com.example.first.ExampleProperties"
+    }
+  ],
+  "hints": []
+}
