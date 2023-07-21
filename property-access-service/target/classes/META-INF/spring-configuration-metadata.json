@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "property-file",
+      "type": "com.example.demo.beans.PropertyAccessBean",
+      "sourceType": "com.example.demo.beans.PropertyAccessBean"
+    }
+  ],
+  "properties": [
+    {
+      "name": "property-file.description",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.beans.PropertyAccessBean"
+    },
+    {
+      "name": "property-file.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.beans.PropertyAccessBean"
+    }
+  ],
+  "hints": []
+}
